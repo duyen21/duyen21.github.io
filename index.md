@@ -2,7 +2,7 @@
 
 ---
 
-### Airbnb
+### Statistical Analysis of Airbnb Rates in New York City
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
