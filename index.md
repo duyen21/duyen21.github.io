@@ -10,7 +10,6 @@ Hosts have to determine a price that is fair to both themselves and their guests
 The goal of the project was to create a forecast model that gives AirBnb hosts an idea of how they should price their listing in response to mentioned factors. With a forecast model, hosts are able to price fairly and make the profit their listing warrants. This forecast model also helps renters get fair prices on the places they are staying.
 
 <img src="images/airbnb_feature_importance.png?raw=true"/>
-<img src="images/airbnb_heatmap.png?raw=true"/>
 <img src="images/airbnb_listing_density.png?raw=true"/>
 
 ---
