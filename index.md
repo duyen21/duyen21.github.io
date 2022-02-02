@@ -1,8 +1,10 @@
-## Data Analytics/ Data Science Portfolio
+## Portfolio
 
 ---
 
-### [Statistical Analysis of Airbnb Rates in New York City](/airbnb_page)
+### Statistical Analysis of Airbnb Rates in New York City
+
+(/airbnb_page)
 When it comes to AirBnb hosting, figuring out realistic and appropriate rates to charge for their listing can be challenging, and oftentimes, AirBnb hosts have little guidance on how to price them. Not knowing how to price listings can lead to oversaturated markets, unreasonabley priced units and a loss of host's profits. Hosts do not want to overcharge because it could lower potential bookings due to lower demand at high price, but at the same time, they do not want to undercharge, because they could not gain expected revenue.
 
 Hosts have to determine a price that is fair to both themselves and their guests. AirBnb pricing is typically influenced by factors including location, number of reviews, room types, and availability.
@@ -12,4 +14,7 @@ The goal of the project was to create a forecast model that gives AirBnb hosts a
 <img src="images/airbnb_feature_importance.png?raw=true"/>
 <img src="images/airbnb_listing_density.png?raw=true"/>
 
+
 ---
+
+
