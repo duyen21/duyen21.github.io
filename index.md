@@ -1,5 +1,5 @@
 # Portfolio
-
+---
 ## Statistical Analysis of Airbnb Rates in New York City
 ### *[Presentation](https://github.com/duyen21/duyen21.github.io/blob/72f8d626d95c930c68ccdfbd7ddaf3109e5b7dd0/airbnb/Term%20Project%20-%20Final%20Presentation%20-%20Group%2029.pdf) | [Report](https://github.com/duyen21/duyen21.github.io/blob/72f8d626d95c930c68ccdfbd7ddaf3109e5b7dd0/airbnb/Term_Project_Final_Report_Group_29.ipynb) | [Github](https://github.com/duyen21/duyen21.github.io/tree/main/airbnb)*
 
